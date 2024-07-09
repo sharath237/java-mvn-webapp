@@ -23,7 +23,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
-                <version>3.3.2</version> <!-- Replace with the latest version -->
+                <version>3.4.0</version> <!-- Replace with the latest version -->
             </plugin>
         </plugins>
     </build>
